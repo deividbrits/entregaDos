@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Poiret+One|Lobster|Anton|Shadows+Into+Light|Open+Sans|Roboto|Orbitron|Oswald|Raleway|Montserrat|Roboto+Slab|Indie+Flower|Fjalla+One|Bree+Serif|Pacifico|Abril+Fatface);
+
+body {
+    background: -webkit-linear-gradient(90deg, #5f6bc7,#5cc1c0,#eef9f9);
+    background: linear-gradient(90deg, #5f6bc7,#5cc1c0,#eef9f9);
+}
+
+button {
+    border: none; 
+    color:#5c493d ; 
+    padding: 14px 28px; 
+    cursor: pointer; 
+    border-radius: 5px; 
+    background-color: #e5f3ba;
+    margin:50px;
+    font-family:Pacifico
+  }
+
+.main {
+    text-align: center;
+    margin-top: 100px;
+    color:#3a352f
+}
+
+h1 {
+
+  font-family:Pacifico;
+  width:100%;
+  height:100%;
+  color:#5c493d
+    
+};
